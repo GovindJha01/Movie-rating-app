@@ -1,1 +1,1 @@
-# Weather-app
+# Movie-rating-app
